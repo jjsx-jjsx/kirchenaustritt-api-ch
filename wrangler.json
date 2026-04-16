@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kirchenaustritt-api-ch",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f14927a4-19af-4b15-8140-4813bf1d88b3",
+			"database_name": "kirchenaustritt-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
